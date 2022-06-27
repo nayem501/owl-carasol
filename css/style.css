@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(../img/bak2222.jpg);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    height: 300px;
+    width: 300px;
+
+}
+h1{
+    text-align: center;
+    color: aquamarine;
+    background-color: blanchedalmond ;
+    
+
+}
+h2{
+    text-align: center;
+    color:white;
+    font-size: 20px;
+    background-color:palevioletred;
+
+}
